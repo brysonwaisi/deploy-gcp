@@ -1,0 +1,2 @@
+Django app configurations go here etc.
+Create a django project and build a docker image
